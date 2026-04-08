@@ -1,6 +1,22 @@
 # Sales-Overview-and-Trends-Dashboard
 ### .Excel . SQL . Power BI
 
+## 📚 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Tools & Technologies](#tools-&-Ttchnologies)
+- [Dataset Overview](#dataset-overview)
+- [Sample Preview](#sample-preview)
+- [Data Cleaning Procedures](#data-cleaning-procedures)
+- [Exploratory Analysis (mysql)](#exploratory-analysis_(mysql))
+- [Excel Dashboard](#excel-dashboard)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Future Works](#future-works)
+- [Data Source](#data-source)
+
+
 ### Project Overview
 
 Sales Overview and Trends Dashboard: This is a comprehensive project that uncovers key insights from sales data,
