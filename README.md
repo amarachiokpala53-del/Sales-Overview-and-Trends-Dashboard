@@ -251,6 +251,9 @@ This Power BI dashboard includes the following visuals:
 15. Region
 16. Customer Type (New vs Returning)
 17. Timeline (Date Filter)
+    
+### Dashboard Overview
+<img width="901" height="506" alt="latest sales overview dashboard" src="https://github.com/user-attachments/assets/9403a959-8b0c-41ce-98b4-e7304004ec95" />
 
 ### Key Insights
 ##### Sales by Region:
