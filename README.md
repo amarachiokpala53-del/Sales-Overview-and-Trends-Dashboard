@@ -1,4 +1,4 @@
-# Sales-Overview-and-Trends-Dashboard
+# Sales-Overview-and-Trends-Analysis
 ### .Excel . SQL . Power BI
 
 ## 📚 Table of Contents
